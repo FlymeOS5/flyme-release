@@ -619,3 +619,5 @@ name="TimeService.apk" certificate="build/target/product/security/platform.x509.
 name="EseSpi.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="NfceeService.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="PaymentSwitch.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
+name="NianSettings.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
+name="Updater.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
