@@ -126,8 +126,8 @@
 <y>2</y>
 </workspace>
 <workspace>
-<packagename>com.meizu.mstore</packagename>
-<classname>com.meizu.flyme.appcenter.activitys.AppMainActivity</classname>
+<packagename>com.lenovo.leos.appstore</packagename>
+<classname>com.lenovo.leos.appstore.activities.Main</classname>
 <screen>0</screen>
 <x>0</x>
 <y>4</y>
